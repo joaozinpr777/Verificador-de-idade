@@ -25,6 +25,28 @@ footer{
     color: white;
 }
 
+input{
+    font-size: 20px;
+    outline: none;
+}
+
+input[type=button]{
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    background-color: darkgray;
+    transition: 1s;
+}
+
+input[type=button]:hover{
+    width: 150px;
+    height: 30px;
+    transition: 1s;
+    background-color: black;
+    color: white;
+}
+
 img {
     border-radius: 50%;
     width: 250px;
