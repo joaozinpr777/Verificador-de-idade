@@ -1,0 +1,36 @@
+body{
+    background-color: #1273C7;
+    font: normal 15pt arial;
+    text-align: center;
+    overflow: hidden;
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    margin: auto;
+    padding: 15px;
+    align-items: center;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.452);
+}
+
+footer{
+    font-style: italic;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+#res{
+    word-wrap: break-word;
+}
